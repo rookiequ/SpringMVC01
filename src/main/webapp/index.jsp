@@ -12,6 +12,8 @@
 </head>
 <body>
     <h2>springmvc入门</h2>
-    <a href="hello">入门</a>
+    <%--<a href="/user/hello?id=2">入门</a>--%>
+    <a href="hello01">入门01</a><br>
+    <a href="hello02?username=zs&password=123456">入门02</a><br>
 </body>
 </html>
